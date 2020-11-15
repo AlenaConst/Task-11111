@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1583225888 source:e:\2 סולוסענ\robbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	"robbers_head.h"
+
+1583227154 e:\2 סולוסענ\robbers\robbers_head.h
+	<stdio.h>
+	<stdlib.h>
+
+1583225224 source:e:\2 סולוסענ\robbers\robbers_source.c
+	"robbers_head.h"
+	<stdio.h>
+	<stdlib.h>
+
+1583681026 source:e:\2_semestr\robbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	"robbers_head.h"
+	<windows.h>
+	<string.h>
+	<graphics.h>
+	<math.h>
+
+1583681146 e:\2_semestr\robbers\robbers_head.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<graphics.h>
+	<math.h>
+
+1583683476 source:e:\2_semestr\robbers\robbers_source.c
+	"robbers_head.h"
+
+1583681026 source:f:\2_semestr\robbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	"robbers_head.h"
+	<windows.h>
+	<string.h>
+	<graphics.h>
+	<math.h>
+
+1583681146 f:\2_semestr\robbers\robbers_head.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<graphics.h>
+	<math.h>
+
+1583683476 source:f:\2_semestr\robbers\robbers_source.c
+	"robbers_head.h"
+
+1605470117 source:c:\users\admin\desktop\ןנמדנאללû\task 1\robbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	"robbers_head.h"
+	<windows.h>
+	<string.h>
+	<graphics.h>
+	<math.h>
+
+1605467706 c:\users\admin\desktop\ןנמדנאללû\task 1\robbers\robbers_head.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<graphics.h>
+	<math.h>
+
+1605469469 source:c:\users\admin\desktop\ןנמדנאללû\task 1\robbers\robbers_source.c
+	"robbers_head.h"
+
